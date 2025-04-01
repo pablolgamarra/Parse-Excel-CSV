@@ -1,8 +1,9 @@
-# ConvertExcelToCSV
+# Parse-Excel-CSV
 
 ![PowerShell Version](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
 
 Script de **Powershell** que convierte los datos de una hoja de un archivo **Excel** (`.xlsx`) pasada como paramatro a **CSV** (`.csv`) utilizando -ComObject.
+
 Originalmente esta pensada para usarlo en tareas automaticas, pero tambien puede ejecutarse de manera manual.
 
 ## 📌 Instalación
